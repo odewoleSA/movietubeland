@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movietubeland/static/css/main.334bdeb1.css",
+    "main.js": "/movietubeland/static/js/main.7304b3cd.js",
+    "index.html": "/movietubeland/index.html",
+    "static/media/search.svg": "/movietubeland/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/movietubeland/static/css/main.334bdeb1.css.map",
+    "main.7304b3cd.js.map": "/movietubeland/static/js/main.7304b3cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.7304b3cd.js"
+  ]
+}
